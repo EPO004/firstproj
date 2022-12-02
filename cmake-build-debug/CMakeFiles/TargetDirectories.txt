@@ -1,0 +1,3 @@
+C:/Users/karino/Documents/CLionproj/firstproj/cmake-build-debug/CMakeFiles/firstproj.dir
+C:/Users/karino/Documents/CLionproj/firstproj/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karino/Documents/CLionproj/firstproj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
